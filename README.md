@@ -1,6 +1,6 @@
 # Hi nice to meet you, I'm Purich! 🚀<br><br>
 
-📚 UCSD Graduate in Mathematics - Computer Science B.S. (2025)<br>⚡️ Aspiring software engineer<br>🤝 I'm passionate about building intuitive user-facing products<br>✨ I'm currently building an AI-powered clothing web-app<br>💼 Seeking out internship/full-time SWE roles<br><br>💬 Connect with me at purichv123@gmail.com<br>
+📚 UCSD Graduate in Mathematics - Computer Science B.S. (2025)<br>⚡️ Aspiring junior software engineer<br>🤝 I'm passionate about building intuitive user-facing products<br>✨ I'm currently building an AI-powered second-hand clothing marketplace web-app<br>💼 Seeking out internship/full-time SWE roles<br><br>💬 Connect with me at purichv123@gmail.com<br>
 
 
 ## 🌐 Socials:
