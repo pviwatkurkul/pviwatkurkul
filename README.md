@@ -2,6 +2,8 @@
 
 📚 UCSD Graduate in Mathematics - Computer Science B.S. (2025)<br>⚡️ Aspiring junior software engineer<br>🤝 I'm passionate about building intuitive user-facing products<br>✨ I'm currently building an AI-powered second-hand clothing marketplace web-app<br>💼 Seeking out internship/full-time SWE roles<br><br>💬 Connect with me at purichv123@gmail.com<br>
 
+## 🎨 Portfolio:
+[Personal Website](https://purich-viwatkurkul.netlify.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.urich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purich-viwatkurkul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purichv123@gmail.com) 
